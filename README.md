@@ -16,4 +16,5 @@ _Recordings would be provided as a value-add to training, and are not meant to b
   * if no popup, select "Open Notebook" from file menu
 * https://mybinder.org/v2/gh/davewadestein/Python-Fundamentals/HEAD
 
-
+* Contact Me
+   * dave@developintelligence.com
