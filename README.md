@@ -10,5 +10,9 @@
   * if no popup, select "Open Notebook" from file menu
 * https://mybinder.org/v2/gh/davewadestein/Python-Fundamentals/HEAD
 
+# If you can/want to install something...
+   * Anaconda distribution https://www.anaconda.com/
+   * https://code.visualstudio.com/ (it will read and display Jupyter notebooks)
+     * when you open a Jupyter notebook the first time, it will figure it out and ask you
 * Contact Me
    * dave@developintelligence.com
