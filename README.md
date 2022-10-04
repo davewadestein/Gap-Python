@@ -14,5 +14,6 @@
    * Anaconda distribution https://www.anaconda.com/
    * https://code.visualstudio.com/ (it will read and display Jupyter notebooks)
      * when you open a Jupyter notebook the first time, it will figure it out and ask you
+   * install Python proper from https://www.python.org/
 * Contact Me
    * dave@developintelligence.com
