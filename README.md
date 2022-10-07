@@ -22,3 +22,5 @@
    * Git bash (when you install Git, you get this for free)
    * WSL (Windows Subsystem for Linux) https://learn.microsoft.com/en-us/windows/wsl/about
 
+* Python "equivalent" of Tomcat JS
+  * https://stackoverflow.com/questions/6157049/what-is-the-python-equivalent-of-tomcat
